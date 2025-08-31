@@ -1,6 +1,6 @@
-#///////////////////////////////////.  Exercise II  /////////////////////////////
+#///////////////////////////////////.  Part II  /////////////////////////////
 #read file
-dataset = load(file= "/Users/default/Documents/Semester 4/Data Management/PrblemSets/Takehome2_Bakhtiari_C/Exam Data/takehome_C.rda")
+dataset = load(file= "/Users/default/Documents/Data Management/PrblemSet/Take_Bakhtiari_C/takehome_C.rda")
 View(takehome_edu)
 summary(takehome_edu)
 str(takehome_edu)
@@ -93,7 +93,7 @@ print(
   caption.placement = "top",            # Position of caption
   booktabs = TRUE                      # Professional formatting 
 )
-#///////////////////////////////////.  Exercise III  /////////////////////////////
+#///////////////////////////////////.  Part III  /////////////////////////////
 # III.1
 # cleaning data                 failed
 # Load required packages
