@@ -1,4 +1,4 @@
-setwd("/Users/default/Documents/Semester 4/Data Management/PrblemSets/")
+setwd("/Users/default/Documents/Semester 4/Data Management/")
 myFilename<-file.choose()
 Comrade_data = read.csv(myFilename, stringsAsFactors=FALSE)
 View(Comrade_data)
