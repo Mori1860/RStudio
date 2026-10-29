@@ -1,6 +1,6 @@
 #///////////////////////////////////.  Part II  /////////////////////////////
 #read file
-dataset = load(file= "/Users/default/Documents/Data Management/PrblemSet/Take_Bakhtiari_C/takehome_C.rda")
+dataset = load(file= "/Users/default/Documents/Data Management/")
 View(takehome_edu)
 summary(takehome_edu)
 str(takehome_edu)
